@@ -9,6 +9,7 @@ ML algorithms:
 * One variable linear regression
 * Multi-variable linear regression
 * Multi-variable logistic regression
+* Decision Tree Classifier
 
 DL algorithms:
 
