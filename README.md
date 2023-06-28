@@ -11,6 +11,8 @@ ML algorithms:
 * Multi-variable logistic regression
 * Decision Tree Classifier
 * Decision Tree Regressor
+* Random Forest Classifier
+* Random Forest Regressor
 
 DL algorithms:
 
