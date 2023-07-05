@@ -6,6 +6,8 @@ The repo currently has vectorized implementations + examples for the following a
 
 ML algorithms:
 
+Supervised Learning:
+
 * One variable linear regression
 * Multi-variable linear regression
 * Multi-variable logistic regression
@@ -14,7 +16,15 @@ ML algorithms:
 * Random Forest Classifier
 * Random Forest Regressor
 
+Unsupervised Learning:
+
+* K-means clustering
+* Anomaly detection using multivariate normal distribution
+
+
 DL algorithms:
+
+Supervised Learning:
 
 * Neural Network
 * Dense Layer
