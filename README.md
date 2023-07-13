@@ -20,7 +20,7 @@ Unsupervised Learning:
 
 * K-means clustering
 * Anomaly detection using multivariate normal distribution
-
+* PCA
 
 DL algorithms:
 
