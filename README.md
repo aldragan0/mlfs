@@ -21,6 +21,8 @@ Unsupervised Learning:
 * K-means clustering
 * Anomaly detection using multivariate normal distribution
 * PCA
+* Recommender systems
+	* Collaborative Filtering (TF2 implementation)
 
 DL algorithms:
 
