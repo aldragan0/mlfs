@@ -4,9 +4,9 @@ A repository containing ML algorithms implemented from scratch (python + Numpy)
 
 The repo currently has vectorized implementations + examples for the following algorithms:
 
-ML algorithms:
+## ML algorithms:
 
-Supervised Learning:
+### Supervised Learning:
 
 * One variable linear regression
 * Multi-variable linear regression
@@ -16,17 +16,18 @@ Supervised Learning:
 * Random Forest Classifier
 * Random Forest Regressor
 
-Unsupervised Learning:
+### Unsupervised Learning:
 
 * K-means clustering
 * Anomaly detection using multivariate normal distribution
 * PCA
 * Recommender systems
 	* Collaborative Filtering (TF2 implementation)
+	* Content-based Filtering (TF2 implementation)
 
-DL algorithms:
+## DL algorithms:
 
-Supervised Learning:
+### Supervised Learning:
 
 * Neural Network
 * Dense Layer
